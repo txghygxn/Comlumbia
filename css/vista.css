@@ -1,3 +1,4 @@
+@media only screen and (min-width: 768px) {
 span{font-size: 30px;}
      /*color: lightblue;}*/
 span:hover {color: blue;}
@@ -60,7 +61,7 @@ span:hover {color: blue;}
 picture{order: 1;}
 .menu{order: 2;}
 #infor{order: 3;}
-
+}
 
 @media only screen and (min-width: 768px) {
 span{font-size: 30px;}

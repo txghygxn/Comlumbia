@@ -59,7 +59,7 @@ span:hover {color: blue;}
   left:480px;
 }
 picture{order: 1;
-        width: 1125px;
+        width: 500px;
         height: auto;}
 .menu{order: 2;}
 #infor{order: 3;}

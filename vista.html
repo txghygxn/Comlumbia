@@ -10,9 +10,12 @@
 </head>
 
 <body>
-		<img src="css/img/vista_web.jpg">
+		<picture>
+  			<source media="(min-width: 768px)" srcset="css/img/vista_web.jpg"><!-- for desktop -->
+ 			 <source srcset="css/img/vista_phone.jpg">
+ 			 <img src="css/img/vista_phone.jpg">
+		</picture>
 		
-
 		<div id = "pop">
 			<p class="menu">back to menu</p>
 			<br>

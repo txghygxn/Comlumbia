@@ -58,7 +58,9 @@ span:hover {color: blue;}
   top:240px;
   left:480px;
 }
-picture{order: 1;}
+picture{order: 1;
+        width: 1125px;
+        height: auto;}
 .menu{order: 2;}
 #infor{order: 3;}
 }

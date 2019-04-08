@@ -5,7 +5,7 @@ span:hover {color: blue;}
 .xn{z-index: -1;}
 /*menkoi 320 960*/
 #x1{
-  color: pink;
+  color: blue;
   position: absolute;
   top:3px;
   left:3px;
@@ -59,10 +59,10 @@ span:hover {color: blue;}
   left:480px;
 }
 picture{order: 1;
-        width: 500px;
+        width:50px;
         height: auto;}
 .menu{order: 2;}
-#infor{order: 3;}
+#info{order: 3;}
 }
 
 @media only screen and (min-width: 768px) {

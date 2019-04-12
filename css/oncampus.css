@@ -130,8 +130,8 @@ span:hover {color: blue;}
   left:480px;
 }
 
-img{width: 1920px;
-    height: 1080px;
+img{width: 960px;
+    
     z-index: -2;
     clear: none;
     }

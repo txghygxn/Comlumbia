@@ -1,63 +1,51 @@
 @media only screen and (min-width: 0px) {
-span{font-size: 30px;}
+span{font-size: 20px;}
      /*color: lightblue;}*/
 span:hover {color: blue;}
 .xn{z-index: -1;}
 /*menkoi 320 960*/
 #x1{
-  color: red;
-  position: absolute;
-  top:3px;
-  left:3px;
+   position: absolute;
+  top:90px;
+  left:200px;
 }
 /*mellow mushroom*/
 #x2{
   position: absolute;
-  top:230px;
-  left:960px;
+  top:80px;
+  left:105px;
 }
 /*929*/
 #x3{
   position: absolute;
-  top:250px;
-  left:790px;
-}
-/*panera*/
-#x4{
-  position: absolute;
-  top:245px;
-  left:830px;
+  top:190px;
+  left:115px;
 }
 /*kaminsky*/
-#x5{
+#x4{
   position: absolute;
-  top:340px;
-  left:860px;
+  top:180px;
+  left:200px;
 }
 /*five guys*/
-#x6{
+#x5{
   position: absolute;
-  top:440px;
-  left:860px;
+  top:190px;
+  left:290px;
 }
 /*old chicago*/
-#x7{
+#x6{
   position: absolute;
-  top:360px;
-  left:690px;
-}
-/*world of beer*/
-#x8{
-  position: absolute;
-  top:420px;
-  left:790px;
+  top:320px;
+  left:215px;
 }
 /*chipotle*/
-#x9{
+#x7{
   position: absolute;
-  top:240px;
-  left:480px;
+  top:440px;
+  left:95px;
 }
+
 img{order: 1;
         width:350px;
         height: auto;}
@@ -72,55 +60,48 @@ span:hover {color: blue;}
 .xn{z-index: -1;}
 /*menkoi 320 960*/
 #x1{
-  color: green;
   position: absolute;
-  top:3px;
-  left:3px;
+  top:275px;
+  left:790px;
 }
 /*mellow mushroom*/
 #x2{
   position: absolute;
-  top:230px;
-  left:960px;
+  top:160px;
+  left:800px;
 }
 /*929*/
 #x3{
   position: absolute;
-  top:250px;
-  left:790px;
-}
-/*panera*/
-#x4{
-  position: absolute;
-  top:245px;
-  left:830px;
+  top:180px;
+  left:670px;
 }
 /*kaminsky*/
-#x5{
+#x4{
   position: absolute;
-  top:340px;
-  left:860px;
+  top:290px;
+  left:680px;
 }
 /*five guys*/
-#x6{
+#x5{
   position: absolute;
-  top:440px;
-  left:860px;
+  top:400px;
+  left:680px;
 }
 /*old chicago*/
+#x6{
+  position: absolute;
+  top:310px;
+  left:510px;
+}
+/*chilpotle*/
 #x7{
   position: absolute;
-  top:360px;
-  left:690px;
+  top:170px;
+  left:330px;
 }
-/*world of beer*/
+
 #x8{
-  position: absolute;
-  top:420px;
-  left:790px;
-}
-/*chipotle*/
-#x9{
   position: absolute;
   top:240px;
   left:480px;

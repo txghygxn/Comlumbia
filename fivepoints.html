@@ -1,0 +1,83 @@
+<!doctype html>
+
+<head>
+	<title>ColumbiaWhereToEat</title>
+	<meta name = "viewport" content = "width=device-width initial-scale = 1.0">
+	<meta charset = "UTF-8">
+	<link rel = "stylesheet" href = "css/fivepoints.css">
+	<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300i,900i" rel="stylesheet">
+</head>
+
+<body>
+		<picture>
+  			<source media="(min-width: 768px)" srcset="css/img/fivepoints_web.jpg"><!-- for desktop -->
+ 			 <source srcset="css/img/fivepoints_phone.jpg">
+ 			 <img src="css/img/fivepoitns_phone.jpg">
+		</picture>
+
+		<div id = "pop">
+			<a href ="index.html"><p class="menu">Back to menu</p></a>
+			<br>
+			<p id = "info">Click on 'x' to see the description</p>
+		</div>
+
+		<div class = "xn">
+			<span id ="x1" class = "fas fa-times"></span>
+			<span id ="x2" class = "fas fa-times"></span>
+			<span id ="x3" class = "fas fa-times"></span>
+			<span id ="x4" class = "fas fa-times"></span>
+			<span id ="x5" class = "fas fa-times"></span>
+			<span id ="x6" class = "fas fa-times"></span>
+		</div>
+		
+
+	
+
+	<script>
+		//sushiyoshi
+		document.getElementById("x1").onclick = function1;
+		function function1() {
+			document.getElementById("info").innerHTML = "SUSHIYOSHI<br>japanese food<br>Recommended:Salmon sushi, Red snapper sushi";
+		}
+	</script>
+	<script>
+		// pho viet
+		document.getElementById("x2").onclick = function1;
+		function function1() {
+			document.getElementById("info").innerHTML = "PHO VIET<br>vietnamese food";
+		}
+	</script>
+	<script>
+		// scoopy doo
+		document.getElementById("x3").onclick = function1;
+		function function1() {
+			document.getElementById("info").innerHTML = "SCOOPY DOO<br>gelato<br>Recommended:Pistachio gelato with cone";
+		}
+	</script>
+	<script>
+		// pawleys front porch
+		document.getElementById("x4").onclick = function1;
+		function function1() {
+			document.getElementById("info").innerHTML = "PAWLESY FRONT PORCH<br>hamburger";
+		}
+	</script>
+	<script>
+		// publico
+		document.getElementById("x5").onclick = function1;
+		function function1() {
+			document.getElementById("info").innerHTML = "PUBLICO<br>Latin Amercan Food";
+		}
+	</script>
+	<script>
+		// substation
+		document.getElementById("x6").onclick = function1;
+		function function1() {
+			document.getElementById("info").innerHTML = "SUBSTATION II<br>subs";
+		}
+	</script>
+</body>
+
+
+

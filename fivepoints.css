@@ -1,0 +1,112 @@
+@media only screen and (min-width: 0px) {
+span{font-size: 20px;}
+     /*color: lightblue;}*/
+span:hover {color: #e28ac5;}
+.xn{z-index: -1;}
+/*sushi yoshi*/
+#x1{
+  position: absolute;
+  top:370px;
+  left:250px;
+}
+/*pho viet*/
+#x2{
+  position: absolute;
+  top:376px;
+  left:200px;
+}
+/*scoopydoo*/
+#x3{
+  position: absolute;
+  top:300px;
+  left:148px;
+}
+/*pawleys front porch*/
+#x4{
+  position: absolute;
+  top:90px;
+  left:240px;
+}
+/*publico*/
+#x5{
+  position: absolute;
+  top:175px;
+  left:200px;
+}
+/*substation*/
+#x6{
+  position: absolute;
+  top:373px;
+  left:225px;
+}
+
+
+img{
+        order: 1;
+        width: 350px;
+        height: auto;
+
+      }
+.menu{/*float: right;*/font-family: 'Roboto', sans-serif;font-weight: bold; color:#ccca83;}
+a{text-decoration: none;}
+.menu:hover{color:#e28ac5;}
+#info{font-family: 'Roboto', sans-serif;}
+}
+
+@media only screen and (min-width: 768px) {
+span{font-size: 30px;}
+     /*color: lightblue;}*/
+span:hover {color: #e28ac5;}
+.xn{z-index: -1;}
+/*sushi yoshi*/
+#x1{
+  position: absolute;
+  top:130px;
+  left:580px;
+}
+/*pho viet*/
+#x2{
+  position: absolute;
+  top:230px;
+  left:598px;
+}
+/*scoopydoo*/
+#x3{
+  position: absolute;
+  top:335px;
+  left:500px;
+}
+/*pawleys front porch*/
+#x4{
+  position: absolute;
+  top:160px;
+  left:110px;
+}
+/*publico*/
+#x5{
+  position: absolute;
+  top:220px;
+  left:270px;
+}
+/*substation*/
+#x6{
+  position: absolute;
+  top:180px;
+  left:588px;
+}
+
+img{width: 960px;
+    
+    z-index: -2;
+    
+    }
+#pop{
+    float: right;
+    width: 270px;
+    }
+
+.menu{/*float: right;*/font-family: 'Roboto', sans-serif;font-weight: bold; color:#ccca83;font-size: 20px;}
+a{text-decoration: none;}
+.menu:hover{color:#e28ac5;}
+#info{font-family: 'Roboto', sans-serif;}
+}

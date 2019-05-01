@@ -9,8 +9,8 @@ header{display: none;}
 p{text-align: center; font-family:'Raleway', sans-serif; }
 
 .square_1{height:100px; width:80%; background-color: #e2e2e2; border-radius: 30px; overflow:hidden;margin-left: 10%;}
-.square_2{height:100px; width:80%; background-color: #e2e2e2; border-radius: 30px;overflow:hidden;}
-.square_3{height:100px; width:80%; background-color: #e2e2e2; border-radius: 30px;overflow:hidden;}
+.square_2{height:100px; width:80%; background-color: #e2e2e2; border-radius: 30px;overflow:hidden;margin-left: 10%;}
+.square_3{height:100px; width:80%; background-color: #e2e2e2; border-radius: 30px;overflow:hidden;margin-left: 10%;}
 
 #list p{font-size: 15px;font-family: 'Roboto', sans-serif; font-weight: lighter; color:#828282;}
 #list div {display:inline-block;}

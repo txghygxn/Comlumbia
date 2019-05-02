@@ -14,7 +14,7 @@ p{text-align: center; font-family:'Raleway', sans-serif;color:#120659; }
 
 #list p{display:none;}
 #list div {display:inline-block;}
-#list h1{color:#f7f7f7;font-family:'Raleway', sans-serif; 
+#list h1{color:#f7f7f7;font-family:'Raleway', sans-serif; margin-top:-1px;
 		text-align: center;font-style: italic; font-size: 51px;}
 .square_1:hover{background-color:#ddafaf;}
 .square_2:hover{background-color:#e5df95;}

@@ -8,9 +8,9 @@ header{display: none;}
 .title_2{font-family:'Raleway', sans-serif; font-weight: bold; font-size: 40px; margin-top: -65px; margin-bottom: -10px;color:#120659;}
 p{text-align: center; font-family:'Raleway', sans-serif;color:#120659; }
 
-.square_1{height:105px; width:80%; background-color: #eddada; border-radius: 30px; overflow:hidden;margin-left: 10%;margin bottom:2%;}
-.square_2{height:105px; width:80%; background-color: #efedd0; border-radius: 30px;overflow:hidden;margin-left: 10%;margin bottom:2%;}
-.square_3{height:105px; width:80%; background-color: #eeedf4; border-radius: 30px;overflow:hidden;margin-left: 10%;}
+.square_1{height:105px; width:80%; background-color: #eddada; border-radius: 30px; margin-left: 10%;}
+.square_2{height:105px; width:80%; background-color: #efedd0; border-radius: 30px;margin-left: 10%;}
+.square_3{height:105px; width:80%; background-color: #eeedf4; border-radius: 30px;margin-left: 10%;}
 
 #list p{display:none;}
 #list div {display:inline-block;}

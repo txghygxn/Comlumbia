@@ -39,14 +39,14 @@ header{display: none;}
 .title_2{font-family:'Raleway', sans-serif; font-weight: bold; font-size: 40px; margin-top: -65px; margin-bottom: -10px;}
 p{text-align: center; font-family:'Raleway', sans-serif; }
 
-.square_1{height:290px; width:19%; background-color: #e2e2e2; border-radius: 30px; overflow:hidden;margin-left: 20%;}
-.square_2{height:290px; width:19%; background-color: #e2e2e2; border-radius: 30px;overflow:hidden;}
-.square_3{height:290px; width:19%; background-color: #e2e2e2; border-radius: 30px;overflow:hidden;}
+.square_1{height:290px; width:20%; background-color: #e2e2e2; border-radius: 30px; overflow:hidden; margin-left:20%;}
+.square_2{height:290px; width:20%; background-color: #e2e2e2; border-radius: 30px; overflow:hidden;}
+.square_3{height:290px; width:20%; background-color: #e2e2e2; border-radius: 30px; overflow:hidden;}
 
 #list p{font-size: 15px;font-family: 'Roboto', sans-serif; font-weight: lighter; color:#828282;}
 #list div {display:inline-block;}
-#list h1{color:#f7f7f7;font-family:'Raleway', sans-serif; margin-top:80px; 
-		text-align: center;font-style: italic; font-size: 51px;}
+#list h1{color:#f7f7f7;font-family:'Raleway', sans-serif; margin-top:120px; 
+		text-align: center;font-style: italic; font-size: 50px;}
 .square_1:hover{background-color:#ddafaf;}
 .square_2:hover{background-color:#e5df95;}
 .square_3:hover{background-color:#d5d3e0;}
